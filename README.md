@@ -1,2 +1,2 @@
-# Global_Superstore_2016_PowerBI
-This project showcases the analysis and visualization of sales data from the Global Superstore for the year 2016 using Power BI. Through interactive dashboards and insightful visualizations, this project aims to provide valuable business insights and actionable intelligence.
+# Global_Superstore_2016
+Steps Covered: 1. Connecting Database with Power BI Desktop. 2. Analyzing the tables and relations. 3. Data Cleaning using Power Query Editor with DAX (Data Analysis Expressions).     and ultimately 4. Developing an Interactive BI Dashboard / Report.
